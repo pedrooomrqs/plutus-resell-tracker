@@ -26,9 +26,9 @@ This project was **heavily built with AI assistance**.
 
 ## How to run
 
-1. Clone this repository
-2. Open the solution in Visual Studio
-3. Build and run the project
+1. Download .RAR from releases
+2. Unzip it
+3. Run Plutus.exe
 
 ## License
 
