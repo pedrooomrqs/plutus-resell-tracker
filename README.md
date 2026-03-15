@@ -16,6 +16,10 @@ Plutus is an open-source WinForms desktop app for resellers to track sales, fees
 
 I wanted a simple desktop app that I could open quickly whenever I made a sale, instead of using spreadsheets or notes.
 
+## Screenshots
+
+![Main UI](assets/main-ui.png)
+
 ## AI Disclaimer
 
 This project was **heavily built with AI assistance**.
